@@ -1,2 +1,5 @@
 # Graphs-Find-Path
-Find the number of paths from vertex A to vertex B
+Assignment 7
+Write a C++ program to find all the paths from vertex 3 to vertex 6 
+ 
+
